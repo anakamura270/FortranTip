@@ -5,3 +5,4 @@
 - Initial release
 - chore: fix a small wording issue
 - docs: add a note about the defaults
+- chore: clarify the setup steps
